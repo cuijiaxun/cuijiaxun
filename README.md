@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Jiaxun Cui
+
+✨ My personal website: [cuijiaxun.github.io](cuijiaxun.github.io)
 
 <!--
 **cuijiaxun/cuijiaxun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
